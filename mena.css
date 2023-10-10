@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Quicksand:wght@300;400;700&family=VT323&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Quicksand:wght@300;400;700&family=VT323&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    height: 82vh;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#tarjeta{
+    width: 1147px;
+    height: 536px;
+    background-image: url(./f9be6c46b2e059924b9745cee04e21ca.jpg); 
+    background-repeat:no-repeat;
+     background-size: cover;
+     background-position: center center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: #7d7549;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+}
+.imgRedonda {
+    width: 133px;
+    height: 181px;
+    border-radius: 150px;
+    border: 5px inset gold;
+    margin-top: 11px;
+    margin-left: 517px;
+    margin-right: -43px;
+}
+
+h2{
+
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    color: #787254;
+    margin-top: 1px;
+    margin-bottom: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.info{
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 6px;
+}
+
+.imginfo{
+
+    width: 40px;
+    margin-bottom: 10px;
+}
+ol{
+    margin-bottom: 0px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    font-size: 22px;
+    gap: 37px;
+}
+#qr{
+    margin-left: 145px;
+
+}
+.Qr{
+    width: 168px;
+}
+#wh{
+    margin-left: 46px;
+}
+a{
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    }
+.whimg{
+    
+    width: 47px;
+}
+
+#pg{
+    width: 1147px;
+    height: 536px;
+    background-image: url(./f9be6c46b2e059924b9745cee04e21ca.jpg); 
+    background-repeat:no-repeat;
+     background-size: cover;
+     background-position: center center;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     margin-top: 51px;
+
+}
+
+.logo{
+    height: 268px;
+}
+
+.yo{
+    display: flex;
+    justify-content: center;
+    color: #7d7549;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    
+}
